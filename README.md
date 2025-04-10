@@ -6,7 +6,6 @@ This repository contains a Principal Component Analysis (PCA) assignment conduct
 ## 📁 Contents
 
 - `IDA - PCA Assignment.ipynb`: Jupyter notebook with code and analysis
-- `Intelligent Data Analysis - PCA Assignment-2652339.pdf`: Detailed report
 - `README.md`: Overview of the project
 
 ## 🏠 Dataset Description
