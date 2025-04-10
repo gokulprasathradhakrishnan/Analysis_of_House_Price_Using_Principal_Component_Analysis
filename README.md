@@ -10,7 +10,7 @@ This repository contains a Principal Component Analysis (PCA) assignment conduct
 
 ## 🏠 Dataset Description
 
-The dataset used is the [Housing dataset from Kaggle](https://www.kaggle.com/code/gauravduttakiit/housing-price-prediction-with-pca/notebook), consisting of 545 entries and 16 attributes, including:
+The dataset used is the [Housing dataset from Kaggle](https://www.kaggle.com/code/gauravduttakiit/housing-price-prediction-with-pca/input), consisting of 545 entries and 16 attributes, including:
 
 - **price**: House price
 - **bedrooms**, **bathrooms**, **area**, **stories**
